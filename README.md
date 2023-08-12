@@ -12,7 +12,7 @@ SteamGameFinderBot - это бот для Telegram, который исполь�
 1. Клонируйте репозиторий на свой компьютер:
 
    ```
-   git clone https://github.com/yourusername/SteamGameFinderBot.git
+   git clone https://github.com/suuuuumod/SteamGameFinderBot.git
    ```
    
 2. Установите необходимые библиотеки:
